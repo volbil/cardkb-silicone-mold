@@ -18,15 +18,15 @@ Another thing to keep in mind is the type of silicone you would want to use. For
 
 I've covered the mold with release agent, mixed silicone as per producer instructions, and poured it into the mold. Once that was done, I left it open for 10 or so minutes to let bubbles of air out and covered it with the lid.
 
-[release agent](images/release_agent.png)
+![release agent](images/release_agent.png)
 
 When I was covering, pressure wasn't even, and some of the silicone got out and formed a couple of cavities. Ideally you would need to add some holes in top lid to let air escape evenly when closing the mold.
 
-[imperfections](images/imperfections.png)
+![imperfections](images/imperfections.png)
 
 After 12 hours I've had silicone cover on my hands (litteraly) :D
 
-[fin](images/fin.png)
+![fin](images/fin.png)
 
 Hope this (rather long) README was useful to you. And most importantly:
 
