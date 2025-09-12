@@ -1,0 +1,6 @@
+# misc
+.DS_STORE
+*.db
+
+# VsCode
+.vscode/*
