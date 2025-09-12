@@ -22,11 +22,11 @@ I've covered the mold with release agent, mixed silicone as per producer instruc
 
 When I was covering, pressure wasn't even, and some of the silicone got out and formed a couple of cavities. Ideally you would need to add some holes in top lid to let air escape evenly when closing the mold.
 
-![imperfections](images/imperfections.png)
+![imperfections](images/imperfections.png?1)
 
 After 12 hours I've had silicone cover on my hands (litteraly) :D
 
-![fin](images/fin.png)
+!g[fin](images/fin.png)
 
 Hope this (rather long) README was useful to you. And most importantly:
 
